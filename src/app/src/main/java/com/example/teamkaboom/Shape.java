@@ -3,6 +3,7 @@ package com.example.teamkaboom;
 public abstract class Shape {
     private int x;
     private int y;
+    private String colour = "purple";
     public Shape(){
         x = 0;
         y = 0;
