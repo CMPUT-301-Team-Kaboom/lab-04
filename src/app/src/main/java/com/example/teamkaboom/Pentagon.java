@@ -5,3 +5,4 @@ public class Pentagon extends Shape {
         super(x, y);
     }
 }
+
